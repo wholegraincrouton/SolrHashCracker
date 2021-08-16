@@ -16,7 +16,8 @@ java SolrHashCracker <hash list> <word list>
 
 ### Hash list format
 The hash list must be in the following format (same as in config file):
-```<base64 salted hash 1> <base64 salt 1>
+```
+<base64 salted hash 1> <base64 salt 1>
 <base64 salted hash 2> <base64 salt 2>
 <base64 salted hash 3> <base64 salt 3>
 ...
